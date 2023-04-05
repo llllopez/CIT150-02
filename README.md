@@ -1,5 +1,5 @@
 # CIT150-02
-## Installation of conductivity probe and an Endress & Hauser Liquiline CM444 and Condumax CLS15D
+## Installation of conductivity probe and conductivity transmitter in RHIT Unit Ops lab
 
 ![Rose-Hulman Logo](https://raw.githubusercontent.com/henthornlab/ProcessAnalytics/master/RHITlogo.png)
 
